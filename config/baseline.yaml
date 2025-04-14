@@ -1,0 +1,84 @@
+# Network Baseline Configuration
+
+# Trusted system and application processes
+trusted_processes:
+  - "svchost.exe"
+  - "lsass.exe"
+  - "services.exe"
+  - "chrome.exe"
+  - "firefox.exe"
+  - "msedge.exe"
+  - "explorer.exe"
+  - "winlogon.exe"
+  - "spoolsv.exe"
+  - "wininit.exe"
+  - "csrss.exe"
+  - "smss.exe"
+  - "system"
+  - "registry"
+
+# Allowed ports for common protocols
+allowed_ports:
+  tcp:
+    - 20    # FTP data
+    - 21    # FTP control
+    - 22    # SSH
+    - 23    # Telnet
+    - 25    # SMTP
+    - 53    # DNS
+    - 80    # HTTP
+    - 110   # POP3
+    - 143   # IMAP
+    - 443   # HTTPS
+    - 445   # SMB
+    - 3389  # RDP
+    - 8080  # HTTP alternate
+    - 8443  # HTTPS alternate
+  udp:
+    - 53    # DNS
+    - 67    # DHCP Server
+    - 68    # DHCP Client
+    - 123   # NTP
+    - 161   # SNMP
+    - 500   # ISAKMP
+    - 514   # Syslog
+    - 1900  # SSDP
+
+# Internal network ranges (RFC 1918)
+internal_networks:
+  - "10.0.0.0/8"      # Class A private network
+  - "172.16.0.0/12"   # Class B private network
+  - "192.168.0.0/16"  # Class C private network
+  - "127.0.0.0/8"     # Localhost
+  - "169.254.0.0/16"  # Link-local
+
+# Known DNS servers
+known_dns_servers:
+  - "8.8.8.8"         # Google DNS
+  - "8.8.4.4"         # Google DNS Secondary
+  - "1.1.1.1"         # Cloudflare DNS
+  - "1.0.0.1"         # Cloudflare DNS Secondary
+  - "9.9.9.9"         # Quad9
+  - "208.67.222.222"  # OpenDNS
+  - "208.67.220.220"  # OpenDNS Secondary
+
+# Whitelisted domains for common services
+whitelisted_domains:
+  - "windows.com"
+  - "microsoft.com"
+  - "office.com"
+  - "google.com"
+  - "googleapis.com"
+  - "gstatic.com"
+  - "cloudflare.com"
+  - "akamai.net"
+  - "digicert.com"
+  - "verisign.com"
+
+# Alert thresholds
+thresholds:
+  connection_frequency: 10    # Max connections per minute
+  failed_login_attempts: 5    # Max failed logins before alert
+  data_transfer_mb: 100      # Max MB per connection
+  port_scan_threshold: 20    # Number of ports before considering it a scan
+  dns_query_frequency: 50    # Max DNS queries per minute 

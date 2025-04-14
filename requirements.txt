@@ -1,0 +1,14 @@
+--find-links https://github.com/abetlen/llama-cpp-python/releases/download/v0.2.11/llama_cpp_python-0.2.11-cp38-cp38-win_amd64.whl
+llama-cpp-python==0.2.11
+rich==13.7.0
+tkinterdnd2==0.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0  # For GUI elements
+psutil>=5.9.0  # For memory management
+typing-extensions>=4.5.0  # For type hints
+# Optional: for GPU support
+# torch==2.1.2
+# transformers==4.36.2
+ttkthemes>=3.2.2  # For modern GUI themes
+python-dateutil>=2.8.2  # For date handling 

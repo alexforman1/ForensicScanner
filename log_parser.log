@@ -1,0 +1,1535 @@
+2025-04-13 14:35:31,053 - ERROR - Error loading model: Model path does not exist: models\mistral-7b-instruct-v0.1.Q4_K_M.gguf
+2025-04-13 14:35:36,444 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,445 - ERROR - No model loaded
+2025-04-13 14:35:36,447 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,447 - ERROR - No model loaded
+2025-04-13 14:35:36,449 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,449 - ERROR - No model loaded
+2025-04-13 14:35:36,451 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,451 - ERROR - No model loaded
+2025-04-13 14:35:36,453 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,453 - ERROR - No model loaded
+2025-04-13 14:35:36,455 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,455 - ERROR - No model loaded
+2025-04-13 14:35:36,457 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,457 - ERROR - No model loaded
+2025-04-13 14:35:36,459 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,459 - ERROR - No model loaded
+2025-04-13 14:35:36,461 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,461 - ERROR - No model loaded
+2025-04-13 14:35:36,463 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,463 - ERROR - No model loaded
+2025-04-13 14:35:36,465 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,465 - ERROR - No model loaded
+2025-04-13 14:35:36,467 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,467 - ERROR - No model loaded
+2025-04-13 14:35:36,468 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,469 - ERROR - No model loaded
+2025-04-13 14:35:36,470 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,470 - ERROR - No model loaded
+2025-04-13 14:35:36,472 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,472 - ERROR - No model loaded
+2025-04-13 14:35:36,474 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,474 - ERROR - No model loaded
+2025-04-13 14:35:36,476 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,476 - ERROR - No model loaded
+2025-04-13 14:35:36,478 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,478 - ERROR - No model loaded
+2025-04-13 14:35:36,480 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,480 - ERROR - No model loaded
+2025-04-13 14:35:36,482 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,482 - ERROR - No model loaded
+2025-04-13 14:35:36,484 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,484 - ERROR - No model loaded
+2025-04-13 14:35:36,486 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,486 - ERROR - No model loaded
+2025-04-13 14:35:36,488 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,488 - ERROR - No model loaded
+2025-04-13 14:35:36,489 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,489 - ERROR - No model loaded
+2025-04-13 14:35:36,491 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,491 - ERROR - No model loaded
+2025-04-13 14:35:36,493 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,493 - ERROR - No model loaded
+2025-04-13 14:35:36,495 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,495 - ERROR - No model loaded
+2025-04-13 14:35:36,497 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,497 - ERROR - No model loaded
+2025-04-13 14:35:36,499 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,499 - ERROR - No model loaded
+2025-04-13 14:35:36,501 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,501 - ERROR - No model loaded
+2025-04-13 14:35:36,503 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,503 - ERROR - No model loaded
+2025-04-13 14:35:36,505 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,505 - ERROR - No model loaded
+2025-04-13 14:35:36,507 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,507 - ERROR - No model loaded
+2025-04-13 14:35:36,508 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,509 - ERROR - No model loaded
+2025-04-13 14:35:36,510 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,510 - ERROR - No model loaded
+2025-04-13 14:35:36,512 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,512 - ERROR - No model loaded
+2025-04-13 14:35:36,514 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,514 - ERROR - No model loaded
+2025-04-13 14:35:36,516 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,516 - ERROR - No model loaded
+2025-04-13 14:35:36,518 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,518 - ERROR - No model loaded
+2025-04-13 14:35:36,520 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,520 - ERROR - No model loaded
+2025-04-13 14:35:36,522 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,522 - ERROR - No model loaded
+2025-04-13 14:35:36,524 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,524 - ERROR - No model loaded
+2025-04-13 14:35:36,526 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,526 - ERROR - No model loaded
+2025-04-13 14:35:36,528 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,528 - ERROR - No model loaded
+2025-04-13 14:35:36,530 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,530 - ERROR - No model loaded
+2025-04-13 14:35:36,531 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,532 - ERROR - No model loaded
+2025-04-13 14:35:36,533 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,533 - ERROR - No model loaded
+2025-04-13 14:35:36,535 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,535 - ERROR - No model loaded
+2025-04-13 14:35:36,537 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,537 - ERROR - No model loaded
+2025-04-13 14:35:36,539 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,539 - ERROR - No model loaded
+2025-04-13 14:35:36,541 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,541 - ERROR - No model loaded
+2025-04-13 14:35:36,543 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,543 - ERROR - No model loaded
+2025-04-13 14:35:36,545 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,545 - ERROR - No model loaded
+2025-04-13 14:35:36,547 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,547 - ERROR - No model loaded
+2025-04-13 14:35:36,549 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,549 - ERROR - No model loaded
+2025-04-13 14:35:36,551 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,551 - ERROR - No model loaded
+2025-04-13 14:35:36,552 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,553 - ERROR - No model loaded
+2025-04-13 14:35:36,554 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,555 - ERROR - No model loaded
+2025-04-13 14:35:36,556 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,556 - ERROR - No model loaded
+2025-04-13 14:35:36,558 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,558 - ERROR - No model loaded
+2025-04-13 14:35:36,560 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,560 - ERROR - No model loaded
+2025-04-13 14:35:36,562 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,562 - ERROR - No model loaded
+2025-04-13 14:35:36,564 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,564 - ERROR - No model loaded
+2025-04-13 14:35:36,566 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,566 - ERROR - No model loaded
+2025-04-13 14:35:36,568 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,568 - ERROR - No model loaded
+2025-04-13 14:35:36,569 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,570 - ERROR - No model loaded
+2025-04-13 14:35:36,571 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,572 - ERROR - No model loaded
+2025-04-13 14:35:36,573 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,573 - ERROR - No model loaded
+2025-04-13 14:35:36,575 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,575 - ERROR - No model loaded
+2025-04-13 14:35:36,577 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,577 - ERROR - No model loaded
+2025-04-13 14:35:36,579 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,579 - ERROR - No model loaded
+2025-04-13 14:35:36,581 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,581 - ERROR - No model loaded
+2025-04-13 14:35:36,583 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,583 - ERROR - No model loaded
+2025-04-13 14:35:36,585 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,585 - ERROR - No model loaded
+2025-04-13 14:35:36,587 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,587 - ERROR - No model loaded
+2025-04-13 14:35:36,589 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,589 - ERROR - No model loaded
+2025-04-13 14:35:36,590 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,591 - ERROR - No model loaded
+2025-04-13 14:35:36,592 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,593 - ERROR - No model loaded
+2025-04-13 14:35:36,594 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,594 - ERROR - No model loaded
+2025-04-13 14:35:36,596 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,596 - ERROR - No model loaded
+2025-04-13 14:35:36,598 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,598 - ERROR - No model loaded
+2025-04-13 14:35:36,600 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,600 - ERROR - No model loaded
+2025-04-13 14:35:36,602 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,602 - ERROR - No model loaded
+2025-04-13 14:35:36,604 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,604 - ERROR - No model loaded
+2025-04-13 14:35:36,605 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,606 - ERROR - No model loaded
+2025-04-13 14:35:36,607 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,608 - ERROR - No model loaded
+2025-04-13 14:35:36,609 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,609 - ERROR - No model loaded
+2025-04-13 14:35:36,611 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,611 - ERROR - No model loaded
+2025-04-13 14:35:36,613 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,613 - ERROR - No model loaded
+2025-04-13 14:35:36,616 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,616 - ERROR - No model loaded
+2025-04-13 14:35:36,617 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,618 - ERROR - No model loaded
+2025-04-13 14:35:36,619 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,620 - ERROR - No model loaded
+2025-04-13 14:35:36,621 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,622 - ERROR - No model loaded
+2025-04-13 14:35:36,623 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,624 - ERROR - No model loaded
+2025-04-13 14:35:36,625 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,626 - ERROR - No model loaded
+2025-04-13 14:35:36,627 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,627 - ERROR - No model loaded
+2025-04-13 14:35:36,629 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,629 - ERROR - No model loaded
+2025-04-13 14:35:36,631 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,631 - ERROR - No model loaded
+2025-04-13 14:35:36,633 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,633 - ERROR - No model loaded
+2025-04-13 14:35:36,635 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,635 - ERROR - No model loaded
+2025-04-13 14:35:36,637 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,637 - ERROR - No model loaded
+2025-04-13 14:35:36,639 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,639 - ERROR - No model loaded
+2025-04-13 14:35:36,641 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,641 - ERROR - No model loaded
+2025-04-13 14:35:36,643 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,643 - ERROR - No model loaded
+2025-04-13 14:35:36,645 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,645 - ERROR - No model loaded
+2025-04-13 14:35:36,646 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,647 - ERROR - No model loaded
+2025-04-13 14:35:36,648 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,649 - ERROR - No model loaded
+2025-04-13 14:35:36,650 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,650 - ERROR - No model loaded
+2025-04-13 14:35:36,652 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,652 - ERROR - No model loaded
+2025-04-13 14:35:36,654 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,654 - ERROR - No model loaded
+2025-04-13 14:35:36,656 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,656 - ERROR - No model loaded
+2025-04-13 14:35:36,658 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,658 - ERROR - No model loaded
+2025-04-13 14:35:36,660 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,660 - ERROR - No model loaded
+2025-04-13 14:35:36,662 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,662 - ERROR - No model loaded
+2025-04-13 14:35:36,664 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,664 - ERROR - No model loaded
+2025-04-13 14:35:36,666 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,666 - ERROR - No model loaded
+2025-04-13 14:35:36,668 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,668 - ERROR - No model loaded
+2025-04-13 14:35:36,669 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,670 - ERROR - No model loaded
+2025-04-13 14:35:36,672 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,672 - ERROR - No model loaded
+2025-04-13 14:35:36,673 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,673 - ERROR - No model loaded
+2025-04-13 14:35:36,675 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,675 - ERROR - No model loaded
+2025-04-13 14:35:36,677 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,677 - ERROR - No model loaded
+2025-04-13 14:35:36,679 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,679 - ERROR - No model loaded
+2025-04-13 14:35:36,681 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,681 - ERROR - No model loaded
+2025-04-13 14:35:36,683 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,683 - ERROR - No model loaded
+2025-04-13 14:35:36,685 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,685 - ERROR - No model loaded
+2025-04-13 14:35:36,686 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,687 - ERROR - No model loaded
+2025-04-13 14:35:36,688 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,688 - ERROR - No model loaded
+2025-04-13 14:35:36,690 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,690 - ERROR - No model loaded
+2025-04-13 14:35:36,692 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,692 - ERROR - No model loaded
+2025-04-13 14:35:36,694 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,694 - ERROR - No model loaded
+2025-04-13 14:35:36,696 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,696 - ERROR - No model loaded
+2025-04-13 14:35:36,698 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,698 - ERROR - No model loaded
+2025-04-13 14:35:36,700 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,700 - ERROR - No model loaded
+2025-04-13 14:35:36,702 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,702 - ERROR - No model loaded
+2025-04-13 14:35:36,704 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,704 - ERROR - No model loaded
+2025-04-13 14:35:36,706 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,706 - ERROR - No model loaded
+2025-04-13 14:35:36,708 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,708 - ERROR - No model loaded
+2025-04-13 14:35:36,710 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,710 - ERROR - No model loaded
+2025-04-13 14:35:36,712 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,712 - ERROR - No model loaded
+2025-04-13 14:35:36,714 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,714 - ERROR - No model loaded
+2025-04-13 14:35:36,716 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,716 - ERROR - No model loaded
+2025-04-13 14:35:36,717 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,718 - ERROR - No model loaded
+2025-04-13 14:35:36,719 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,719 - ERROR - No model loaded
+2025-04-13 14:35:36,721 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,721 - ERROR - No model loaded
+2025-04-13 14:35:36,723 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,723 - ERROR - No model loaded
+2025-04-13 14:35:36,725 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,725 - ERROR - No model loaded
+2025-04-13 14:35:36,727 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,727 - ERROR - No model loaded
+2025-04-13 14:35:36,728 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,728 - ERROR - No model loaded
+2025-04-13 14:35:36,730 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,730 - ERROR - No model loaded
+2025-04-13 14:35:36,732 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,732 - ERROR - No model loaded
+2025-04-13 14:35:36,734 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,734 - ERROR - No model loaded
+2025-04-13 14:35:36,736 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,736 - ERROR - No model loaded
+2025-04-13 14:35:36,738 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,738 - ERROR - No model loaded
+2025-04-13 14:35:36,740 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,740 - ERROR - No model loaded
+2025-04-13 14:35:36,741 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,742 - ERROR - No model loaded
+2025-04-13 14:35:36,743 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,743 - ERROR - No model loaded
+2025-04-13 14:35:36,746 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,746 - ERROR - No model loaded
+2025-04-13 14:35:36,748 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,748 - ERROR - No model loaded
+2025-04-13 14:35:36,749 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,750 - ERROR - No model loaded
+2025-04-13 14:35:36,751 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,751 - ERROR - No model loaded
+2025-04-13 14:35:36,753 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,753 - ERROR - No model loaded
+2025-04-13 14:35:36,755 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,755 - ERROR - No model loaded
+2025-04-13 14:35:36,757 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,757 - ERROR - No model loaded
+2025-04-13 14:35:36,759 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,759 - ERROR - No model loaded
+2025-04-13 14:35:36,761 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,761 - ERROR - No model loaded
+2025-04-13 14:35:36,762 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,763 - ERROR - No model loaded
+2025-04-13 14:35:36,764 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,765 - ERROR - No model loaded
+2025-04-13 14:35:36,766 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,767 - ERROR - No model loaded
+2025-04-13 14:35:36,768 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,768 - ERROR - No model loaded
+2025-04-13 14:35:36,770 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,770 - ERROR - No model loaded
+2025-04-13 14:35:36,772 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,772 - ERROR - No model loaded
+2025-04-13 14:35:36,774 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,774 - ERROR - No model loaded
+2025-04-13 14:35:36,775 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,776 - ERROR - No model loaded
+2025-04-13 14:35:36,777 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,777 - ERROR - No model loaded
+2025-04-13 14:35:36,779 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,779 - ERROR - No model loaded
+2025-04-13 14:35:36,781 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,781 - ERROR - No model loaded
+2025-04-13 14:35:36,783 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,783 - ERROR - No model loaded
+2025-04-13 14:35:36,785 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,785 - ERROR - No model loaded
+2025-04-13 14:35:36,787 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,787 - ERROR - No model loaded
+2025-04-13 14:35:36,789 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,789 - ERROR - No model loaded
+2025-04-13 14:35:36,790 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,791 - ERROR - No model loaded
+2025-04-13 14:35:36,792 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,793 - ERROR - No model loaded
+2025-04-13 14:35:36,794 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,794 - ERROR - No model loaded
+2025-04-13 14:35:36,796 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,797 - ERROR - No model loaded
+2025-04-13 14:35:36,798 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,798 - ERROR - No model loaded
+2025-04-13 14:35:36,800 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,800 - ERROR - No model loaded
+2025-04-13 14:35:36,802 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,802 - ERROR - No model loaded
+2025-04-13 14:35:36,804 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,804 - ERROR - No model loaded
+2025-04-13 14:35:36,806 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,806 - ERROR - No model loaded
+2025-04-13 14:35:36,807 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,808 - ERROR - No model loaded
+2025-04-13 14:35:36,809 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,809 - ERROR - No model loaded
+2025-04-13 14:35:36,811 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,811 - ERROR - No model loaded
+2025-04-13 14:35:36,813 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,813 - ERROR - No model loaded
+2025-04-13 14:35:36,815 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,815 - ERROR - No model loaded
+2025-04-13 14:35:36,817 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,817 - ERROR - No model loaded
+2025-04-13 14:35:36,819 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,819 - ERROR - No model loaded
+2025-04-13 14:35:36,820 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,821 - ERROR - No model loaded
+2025-04-13 14:35:36,822 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,822 - ERROR - No model loaded
+2025-04-13 14:35:36,824 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,824 - ERROR - No model loaded
+2025-04-13 14:35:36,826 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,826 - ERROR - No model loaded
+2025-04-13 14:35:36,828 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,828 - ERROR - No model loaded
+2025-04-13 14:35:36,830 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,830 - ERROR - No model loaded
+2025-04-13 14:35:36,832 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,832 - ERROR - No model loaded
+2025-04-13 14:35:36,834 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,834 - ERROR - No model loaded
+2025-04-13 14:35:36,836 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,836 - ERROR - No model loaded
+2025-04-13 14:35:36,838 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,838 - ERROR - No model loaded
+2025-04-13 14:35:36,839 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,840 - ERROR - No model loaded
+2025-04-13 14:35:36,841 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,841 - ERROR - No model loaded
+2025-04-13 14:35:36,843 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,843 - ERROR - No model loaded
+2025-04-13 14:35:36,845 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,845 - ERROR - No model loaded
+2025-04-13 14:35:36,846 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,846 - ERROR - No model loaded
+2025-04-13 14:35:36,848 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,848 - ERROR - No model loaded
+2025-04-13 14:35:36,850 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,850 - ERROR - No model loaded
+2025-04-13 14:35:36,852 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,852 - ERROR - No model loaded
+2025-04-13 14:35:36,854 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,854 - ERROR - No model loaded
+2025-04-13 14:35:36,856 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,856 - ERROR - No model loaded
+2025-04-13 14:35:36,858 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,858 - ERROR - No model loaded
+2025-04-13 14:35:36,859 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,860 - ERROR - No model loaded
+2025-04-13 14:35:36,861 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,862 - ERROR - No model loaded
+2025-04-13 14:35:36,863 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,863 - ERROR - No model loaded
+2025-04-13 14:35:36,865 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,865 - ERROR - No model loaded
+2025-04-13 14:35:36,867 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,867 - ERROR - No model loaded
+2025-04-13 14:35:36,869 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,869 - ERROR - No model loaded
+2025-04-13 14:35:36,871 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,871 - ERROR - No model loaded
+2025-04-13 14:35:36,873 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,873 - ERROR - No model loaded
+2025-04-13 14:35:36,874 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,874 - ERROR - No model loaded
+2025-04-13 14:35:36,876 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,876 - ERROR - No model loaded
+2025-04-13 14:35:36,878 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,878 - ERROR - No model loaded
+2025-04-13 14:35:36,880 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,880 - ERROR - No model loaded
+2025-04-13 14:35:36,882 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,882 - ERROR - No model loaded
+2025-04-13 14:35:36,884 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,884 - ERROR - No model loaded
+2025-04-13 14:35:36,885 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,886 - ERROR - No model loaded
+2025-04-13 14:35:36,887 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,887 - ERROR - No model loaded
+2025-04-13 14:35:36,889 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,889 - ERROR - No model loaded
+2025-04-13 14:35:36,891 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,891 - ERROR - No model loaded
+2025-04-13 14:35:36,893 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,893 - ERROR - No model loaded
+2025-04-13 14:35:36,895 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,895 - ERROR - No model loaded
+2025-04-13 14:35:36,896 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,897 - ERROR - No model loaded
+2025-04-13 14:35:36,899 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,899 - ERROR - No model loaded
+2025-04-13 14:35:36,900 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,901 - ERROR - No model loaded
+2025-04-13 14:35:36,902 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,902 - ERROR - No model loaded
+2025-04-13 14:35:36,904 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,904 - ERROR - No model loaded
+2025-04-13 14:35:36,906 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,906 - ERROR - No model loaded
+2025-04-13 14:35:36,908 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,908 - ERROR - No model loaded
+2025-04-13 14:35:36,910 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,910 - ERROR - No model loaded
+2025-04-13 14:35:36,912 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,912 - ERROR - No model loaded
+2025-04-13 14:35:36,913 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,913 - ERROR - No model loaded
+2025-04-13 14:35:36,915 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,915 - ERROR - No model loaded
+2025-04-13 14:35:36,917 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,917 - ERROR - No model loaded
+2025-04-13 14:35:36,919 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,919 - ERROR - No model loaded
+2025-04-13 14:35:36,921 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,921 - ERROR - No model loaded
+2025-04-13 14:35:36,922 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,923 - ERROR - No model loaded
+2025-04-13 14:35:36,924 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,924 - ERROR - No model loaded
+2025-04-13 14:35:36,926 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,926 - ERROR - No model loaded
+2025-04-13 14:35:36,928 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,928 - ERROR - No model loaded
+2025-04-13 14:35:36,930 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,930 - ERROR - No model loaded
+2025-04-13 14:35:36,932 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,932 - ERROR - No model loaded
+2025-04-13 14:35:36,933 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,933 - ERROR - No model loaded
+2025-04-13 14:35:36,935 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,935 - ERROR - No model loaded
+2025-04-13 14:35:36,937 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,937 - ERROR - No model loaded
+2025-04-13 14:35:36,939 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,939 - ERROR - No model loaded
+2025-04-13 14:35:36,941 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,941 - ERROR - No model loaded
+2025-04-13 14:35:36,943 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,943 - ERROR - No model loaded
+2025-04-13 14:35:36,945 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,945 - ERROR - No model loaded
+2025-04-13 14:35:36,948 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,949 - ERROR - No model loaded
+2025-04-13 14:35:36,950 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,950 - ERROR - No model loaded
+2025-04-13 14:35:36,952 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,952 - ERROR - No model loaded
+2025-04-13 14:35:36,954 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,954 - ERROR - No model loaded
+2025-04-13 14:35:36,957 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,958 - ERROR - No model loaded
+2025-04-13 14:35:36,959 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,959 - ERROR - No model loaded
+2025-04-13 14:35:36,961 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,961 - ERROR - No model loaded
+2025-04-13 14:35:36,963 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,963 - ERROR - No model loaded
+2025-04-13 14:35:36,965 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,965 - ERROR - No model loaded
+2025-04-13 14:35:36,967 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,967 - ERROR - No model loaded
+2025-04-13 14:35:36,970 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,970 - ERROR - No model loaded
+2025-04-13 14:35:36,972 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,972 - ERROR - No model loaded
+2025-04-13 14:35:36,974 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,974 - ERROR - No model loaded
+2025-04-13 14:35:36,976 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,976 - ERROR - No model loaded
+2025-04-13 14:35:36,978 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,978 - ERROR - No model loaded
+2025-04-13 14:35:36,980 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,981 - ERROR - No model loaded
+2025-04-13 14:35:36,983 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,983 - ERROR - No model loaded
+2025-04-13 14:35:36,985 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,985 - ERROR - No model loaded
+2025-04-13 14:35:36,987 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,987 - ERROR - No model loaded
+2025-04-13 14:35:36,989 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,989 - ERROR - No model loaded
+2025-04-13 14:35:36,991 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,991 - ERROR - No model loaded
+2025-04-13 14:35:36,992 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,993 - ERROR - No model loaded
+2025-04-13 14:35:36,994 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,995 - ERROR - No model loaded
+2025-04-13 14:35:36,996 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,996 - ERROR - No model loaded
+2025-04-13 14:35:36,998 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:36,998 - ERROR - No model loaded
+2025-04-13 14:35:37,000 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,000 - ERROR - No model loaded
+2025-04-13 14:35:37,002 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,002 - ERROR - No model loaded
+2025-04-13 14:35:37,004 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,004 - ERROR - No model loaded
+2025-04-13 14:35:37,006 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,006 - ERROR - No model loaded
+2025-04-13 14:35:37,008 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,008 - ERROR - No model loaded
+2025-04-13 14:35:37,009 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,010 - ERROR - No model loaded
+2025-04-13 14:35:37,011 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,012 - ERROR - No model loaded
+2025-04-13 14:35:37,013 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,013 - ERROR - No model loaded
+2025-04-13 14:35:37,015 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,015 - ERROR - No model loaded
+2025-04-13 14:35:37,017 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,017 - ERROR - No model loaded
+2025-04-13 14:35:37,019 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,019 - ERROR - No model loaded
+2025-04-13 14:35:37,021 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,021 - ERROR - No model loaded
+2025-04-13 14:35:37,023 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,023 - ERROR - No model loaded
+2025-04-13 14:35:37,025 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,025 - ERROR - No model loaded
+2025-04-13 14:35:37,026 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,026 - ERROR - No model loaded
+2025-04-13 14:35:37,028 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,029 - ERROR - No model loaded
+2025-04-13 14:35:37,030 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,030 - ERROR - No model loaded
+2025-04-13 14:35:37,032 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,032 - ERROR - No model loaded
+2025-04-13 14:35:37,034 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,034 - ERROR - No model loaded
+2025-04-13 14:35:37,036 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,036 - ERROR - No model loaded
+2025-04-13 14:35:37,038 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,038 - ERROR - No model loaded
+2025-04-13 14:35:37,040 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,040 - ERROR - No model loaded
+2025-04-13 14:35:37,042 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,042 - ERROR - No model loaded
+2025-04-13 14:35:37,044 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,044 - ERROR - No model loaded
+2025-04-13 14:35:37,045 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,045 - ERROR - No model loaded
+2025-04-13 14:35:37,047 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,047 - ERROR - No model loaded
+2025-04-13 14:35:37,049 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,049 - ERROR - No model loaded
+2025-04-13 14:35:37,051 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,051 - ERROR - No model loaded
+2025-04-13 14:35:37,053 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,053 - ERROR - No model loaded
+2025-04-13 14:35:37,055 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,055 - ERROR - No model loaded
+2025-04-13 14:35:37,056 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,056 - ERROR - No model loaded
+2025-04-13 14:35:37,058 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,058 - ERROR - No model loaded
+2025-04-13 14:35:37,060 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,060 - ERROR - No model loaded
+2025-04-13 14:35:37,062 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,062 - ERROR - No model loaded
+2025-04-13 14:35:37,064 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,064 - ERROR - No model loaded
+2025-04-13 14:35:37,066 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,066 - ERROR - No model loaded
+2025-04-13 14:35:37,068 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,068 - ERROR - No model loaded
+2025-04-13 14:35:37,070 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,070 - ERROR - No model loaded
+2025-04-13 14:35:37,073 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,073 - ERROR - No model loaded
+2025-04-13 14:35:37,074 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,075 - ERROR - No model loaded
+2025-04-13 14:35:37,076 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,077 - ERROR - No model loaded
+2025-04-13 14:35:37,078 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,078 - ERROR - No model loaded
+2025-04-13 14:35:37,080 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,080 - ERROR - No model loaded
+2025-04-13 14:35:37,082 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,082 - ERROR - No model loaded
+2025-04-13 14:35:37,084 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,084 - ERROR - No model loaded
+2025-04-13 14:35:37,086 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,086 - ERROR - No model loaded
+2025-04-13 14:35:37,088 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,088 - ERROR - No model loaded
+2025-04-13 14:35:37,090 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,090 - ERROR - No model loaded
+2025-04-13 14:35:37,092 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,092 - ERROR - No model loaded
+2025-04-13 14:35:37,094 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,094 - ERROR - No model loaded
+2025-04-13 14:35:37,095 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,095 - ERROR - No model loaded
+2025-04-13 14:35:37,097 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,097 - ERROR - No model loaded
+2025-04-13 14:35:37,099 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,099 - ERROR - No model loaded
+2025-04-13 14:35:37,101 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,101 - ERROR - No model loaded
+2025-04-13 14:35:37,103 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,103 - ERROR - No model loaded
+2025-04-13 14:35:37,104 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,105 - ERROR - No model loaded
+2025-04-13 14:35:37,106 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,107 - ERROR - No model loaded
+2025-04-13 14:35:37,108 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,108 - ERROR - No model loaded
+2025-04-13 14:35:37,110 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,110 - ERROR - No model loaded
+2025-04-13 14:35:37,112 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,112 - ERROR - No model loaded
+2025-04-13 14:35:37,114 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,114 - ERROR - No model loaded
+2025-04-13 14:35:37,116 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,116 - ERROR - No model loaded
+2025-04-13 14:35:37,118 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,118 - ERROR - No model loaded
+2025-04-13 14:35:37,120 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,120 - ERROR - No model loaded
+2025-04-13 14:35:37,122 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,122 - ERROR - No model loaded
+2025-04-13 14:35:37,123 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,124 - ERROR - No model loaded
+2025-04-13 14:35:37,125 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,125 - ERROR - No model loaded
+2025-04-13 14:35:37,127 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,127 - ERROR - No model loaded
+2025-04-13 14:35:37,129 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,129 - ERROR - No model loaded
+2025-04-13 14:35:37,131 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,131 - ERROR - No model loaded
+2025-04-13 14:35:37,133 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,133 - ERROR - No model loaded
+2025-04-13 14:35:37,134 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,135 - ERROR - No model loaded
+2025-04-13 14:35:37,137 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,137 - ERROR - No model loaded
+2025-04-13 14:35:37,138 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,139 - ERROR - No model loaded
+2025-04-13 14:35:37,140 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,141 - ERROR - No model loaded
+2025-04-13 14:35:37,142 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,143 - ERROR - No model loaded
+2025-04-13 14:35:37,144 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,144 - ERROR - No model loaded
+2025-04-13 14:35:37,146 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,146 - ERROR - No model loaded
+2025-04-13 14:35:37,148 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,148 - ERROR - No model loaded
+2025-04-13 14:35:37,149 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,150 - ERROR - No model loaded
+2025-04-13 14:35:37,151 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,152 - ERROR - No model loaded
+2025-04-13 14:35:37,153 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,153 - ERROR - No model loaded
+2025-04-13 14:35:37,155 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,155 - ERROR - No model loaded
+2025-04-13 14:35:37,157 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,157 - ERROR - No model loaded
+2025-04-13 14:35:37,159 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,159 - ERROR - No model loaded
+2025-04-13 14:35:37,160 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,161 - ERROR - No model loaded
+2025-04-13 14:35:37,162 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,163 - ERROR - No model loaded
+2025-04-13 14:35:37,164 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,164 - ERROR - No model loaded
+2025-04-13 14:35:37,166 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,166 - ERROR - No model loaded
+2025-04-13 14:35:37,168 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,168 - ERROR - No model loaded
+2025-04-13 14:35:37,170 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,170 - ERROR - No model loaded
+2025-04-13 14:35:37,172 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,172 - ERROR - No model loaded
+2025-04-13 14:35:37,173 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,174 - ERROR - No model loaded
+2025-04-13 14:35:37,175 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,176 - ERROR - No model loaded
+2025-04-13 14:35:37,177 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,177 - ERROR - No model loaded
+2025-04-13 14:35:37,179 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,179 - ERROR - No model loaded
+2025-04-13 14:35:37,181 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,181 - ERROR - No model loaded
+2025-04-13 14:35:37,183 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,183 - ERROR - No model loaded
+2025-04-13 14:35:37,185 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,185 - ERROR - No model loaded
+2025-04-13 14:35:37,187 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,187 - ERROR - No model loaded
+2025-04-13 14:35:37,189 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,189 - ERROR - No model loaded
+2025-04-13 14:35:37,190 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,191 - ERROR - No model loaded
+2025-04-13 14:35:37,192 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,192 - ERROR - No model loaded
+2025-04-13 14:35:37,194 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,194 - ERROR - No model loaded
+2025-04-13 14:35:37,196 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,196 - ERROR - No model loaded
+2025-04-13 14:35:37,198 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,198 - ERROR - No model loaded
+2025-04-13 14:35:37,200 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,200 - ERROR - No model loaded
+2025-04-13 14:35:37,202 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,226 - ERROR - No model loaded
+2025-04-13 14:35:37,229 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,229 - ERROR - No model loaded
+2025-04-13 14:35:37,231 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,231 - ERROR - No model loaded
+2025-04-13 14:35:37,233 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,233 - ERROR - No model loaded
+2025-04-13 14:35:37,235 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,235 - ERROR - No model loaded
+2025-04-13 14:35:37,237 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,237 - ERROR - No model loaded
+2025-04-13 14:35:37,239 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,239 - ERROR - No model loaded
+2025-04-13 14:35:37,241 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,241 - ERROR - No model loaded
+2025-04-13 14:35:37,243 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,243 - ERROR - No model loaded
+2025-04-13 14:35:37,246 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,246 - ERROR - No model loaded
+2025-04-13 14:35:37,247 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,248 - ERROR - No model loaded
+2025-04-13 14:35:37,249 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,250 - ERROR - No model loaded
+2025-04-13 14:35:37,251 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,252 - ERROR - No model loaded
+2025-04-13 14:35:37,253 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,253 - ERROR - No model loaded
+2025-04-13 14:35:37,255 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,255 - ERROR - No model loaded
+2025-04-13 14:35:37,257 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,257 - ERROR - No model loaded
+2025-04-13 14:35:37,259 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,259 - ERROR - No model loaded
+2025-04-13 14:35:37,261 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,261 - ERROR - No model loaded
+2025-04-13 14:35:37,262 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,263 - ERROR - No model loaded
+2025-04-13 14:35:37,264 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,264 - ERROR - No model loaded
+2025-04-13 14:35:37,266 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,266 - ERROR - No model loaded
+2025-04-13 14:35:37,268 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,268 - ERROR - No model loaded
+2025-04-13 14:35:37,270 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,270 - ERROR - No model loaded
+2025-04-13 14:35:37,272 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,272 - ERROR - No model loaded
+2025-04-13 14:35:37,273 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,274 - ERROR - No model loaded
+2025-04-13 14:35:37,275 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,275 - ERROR - No model loaded
+2025-04-13 14:35:37,277 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,277 - ERROR - No model loaded
+2025-04-13 14:35:37,279 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,279 - ERROR - No model loaded
+2025-04-13 14:35:37,281 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,281 - ERROR - No model loaded
+2025-04-13 14:35:37,283 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,283 - ERROR - No model loaded
+2025-04-13 14:35:37,285 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,285 - ERROR - No model loaded
+2025-04-13 14:35:37,287 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,287 - ERROR - No model loaded
+2025-04-13 14:35:37,289 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,289 - ERROR - No model loaded
+2025-04-13 14:35:37,290 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,291 - ERROR - No model loaded
+2025-04-13 14:35:37,292 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,293 - ERROR - No model loaded
+2025-04-13 14:35:37,294 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,294 - ERROR - No model loaded
+2025-04-13 14:35:37,296 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,296 - ERROR - No model loaded
+2025-04-13 14:35:37,298 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,298 - ERROR - No model loaded
+2025-04-13 14:35:37,300 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,300 - ERROR - No model loaded
+2025-04-13 14:35:37,302 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,302 - ERROR - No model loaded
+2025-04-13 14:35:37,304 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,304 - ERROR - No model loaded
+2025-04-13 14:35:37,305 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,306 - ERROR - No model loaded
+2025-04-13 14:35:37,307 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,307 - ERROR - No model loaded
+2025-04-13 14:35:37,309 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,309 - ERROR - No model loaded
+2025-04-13 14:35:37,311 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,311 - ERROR - No model loaded
+2025-04-13 14:35:37,313 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,313 - ERROR - No model loaded
+2025-04-13 14:35:37,315 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,315 - ERROR - No model loaded
+2025-04-13 14:35:37,316 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,317 - ERROR - No model loaded
+2025-04-13 14:35:37,318 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,318 - ERROR - No model loaded
+2025-04-13 14:35:37,320 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,320 - ERROR - No model loaded
+2025-04-13 14:35:37,322 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,322 - ERROR - No model loaded
+2025-04-13 14:35:37,324 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,324 - ERROR - No model loaded
+2025-04-13 14:35:37,326 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,326 - ERROR - No model loaded
+2025-04-13 14:35:37,328 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,328 - ERROR - No model loaded
+2025-04-13 14:35:37,330 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,330 - ERROR - No model loaded
+2025-04-13 14:35:37,332 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,332 - ERROR - No model loaded
+2025-04-13 14:35:37,333 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,334 - ERROR - No model loaded
+2025-04-13 14:35:37,335 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,335 - ERROR - No model loaded
+2025-04-13 14:35:37,337 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,337 - ERROR - No model loaded
+2025-04-13 14:35:37,339 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,339 - ERROR - No model loaded
+2025-04-13 14:35:37,341 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,341 - ERROR - No model loaded
+2025-04-13 14:35:37,343 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,343 - ERROR - No model loaded
+2025-04-13 14:35:37,344 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,344 - ERROR - No model loaded
+2025-04-13 14:35:37,346 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,346 - ERROR - No model loaded
+2025-04-13 14:35:37,348 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,348 - ERROR - No model loaded
+2025-04-13 14:35:37,350 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,350 - ERROR - No model loaded
+2025-04-13 14:35:37,352 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,352 - ERROR - No model loaded
+2025-04-13 14:35:37,354 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,354 - ERROR - No model loaded
+2025-04-13 14:35:37,356 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,356 - ERROR - No model loaded
+2025-04-13 14:35:37,357 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,358 - ERROR - No model loaded
+2025-04-13 14:35:37,359 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,360 - ERROR - No model loaded
+2025-04-13 14:35:37,361 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,361 - ERROR - No model loaded
+2025-04-13 14:35:37,363 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,363 - ERROR - No model loaded
+2025-04-13 14:35:37,365 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,365 - ERROR - No model loaded
+2025-04-13 14:35:37,367 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,367 - ERROR - No model loaded
+2025-04-13 14:35:37,369 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,369 - ERROR - No model loaded
+2025-04-13 14:35:37,371 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,371 - ERROR - No model loaded
+2025-04-13 14:35:37,372 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,373 - ERROR - No model loaded
+2025-04-13 14:35:37,374 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,375 - ERROR - No model loaded
+2025-04-13 14:35:37,376 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,376 - ERROR - No model loaded
+2025-04-13 14:35:37,378 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,378 - ERROR - No model loaded
+2025-04-13 14:35:37,380 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,380 - ERROR - No model loaded
+2025-04-13 14:35:37,382 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,382 - ERROR - No model loaded
+2025-04-13 14:35:37,384 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,384 - ERROR - No model loaded
+2025-04-13 14:35:37,386 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,386 - ERROR - No model loaded
+2025-04-13 14:35:37,387 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,388 - ERROR - No model loaded
+2025-04-13 14:35:37,389 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,390 - ERROR - No model loaded
+2025-04-13 14:35:37,391 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,391 - ERROR - No model loaded
+2025-04-13 14:35:37,393 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,393 - ERROR - No model loaded
+2025-04-13 14:35:37,395 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,395 - ERROR - No model loaded
+2025-04-13 14:35:37,397 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,397 - ERROR - No model loaded
+2025-04-13 14:35:37,399 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,399 - ERROR - No model loaded
+2025-04-13 14:35:37,400 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,400 - ERROR - No model loaded
+2025-04-13 14:35:37,402 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,402 - ERROR - No model loaded
+2025-04-13 14:35:37,404 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,404 - ERROR - No model loaded
+2025-04-13 14:35:37,406 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,406 - ERROR - No model loaded
+2025-04-13 14:35:37,408 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,408 - ERROR - No model loaded
+2025-04-13 14:35:37,409 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,410 - ERROR - No model loaded
+2025-04-13 14:35:37,411 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,411 - ERROR - No model loaded
+2025-04-13 14:35:37,413 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,413 - ERROR - No model loaded
+2025-04-13 14:35:37,415 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,415 - ERROR - No model loaded
+2025-04-13 14:35:37,417 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,417 - ERROR - No model loaded
+2025-04-13 14:35:37,419 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,419 - ERROR - No model loaded
+2025-04-13 14:35:37,421 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,421 - ERROR - No model loaded
+2025-04-13 14:35:37,422 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,423 - ERROR - No model loaded
+2025-04-13 14:35:37,424 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,424 - ERROR - No model loaded
+2025-04-13 14:35:37,426 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,426 - ERROR - No model loaded
+2025-04-13 14:35:37,428 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,428 - ERROR - No model loaded
+2025-04-13 14:35:37,430 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,430 - ERROR - No model loaded
+2025-04-13 14:35:37,432 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,432 - ERROR - No model loaded
+2025-04-13 14:35:37,434 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,434 - ERROR - No model loaded
+2025-04-13 14:35:37,436 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,436 - ERROR - No model loaded
+2025-04-13 14:35:37,438 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,438 - ERROR - No model loaded
+2025-04-13 14:35:37,440 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,440 - ERROR - No model loaded
+2025-04-13 14:35:37,441 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,441 - ERROR - No model loaded
+2025-04-13 14:35:37,443 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,443 - ERROR - No model loaded
+2025-04-13 14:35:37,445 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,446 - ERROR - No model loaded
+2025-04-13 14:35:37,447 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,448 - ERROR - No model loaded
+2025-04-13 14:35:37,449 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,449 - ERROR - No model loaded
+2025-04-13 14:35:37,451 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,451 - ERROR - No model loaded
+2025-04-13 14:35:37,453 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,453 - ERROR - No model loaded
+2025-04-13 14:35:37,455 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,455 - ERROR - No model loaded
+2025-04-13 14:35:37,457 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,457 - ERROR - No model loaded
+2025-04-13 14:35:37,459 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,459 - ERROR - No model loaded
+2025-04-13 14:35:37,460 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,460 - ERROR - No model loaded
+2025-04-13 14:35:37,462 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,462 - ERROR - No model loaded
+2025-04-13 14:35:37,464 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,464 - ERROR - No model loaded
+2025-04-13 14:35:37,466 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,466 - ERROR - No model loaded
+2025-04-13 14:35:37,468 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,468 - ERROR - No model loaded
+2025-04-13 14:35:37,470 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,470 - ERROR - No model loaded
+2025-04-13 14:35:37,472 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,472 - ERROR - No model loaded
+2025-04-13 14:35:37,473 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,474 - ERROR - No model loaded
+2025-04-13 14:35:37,476 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,476 - ERROR - No model loaded
+2025-04-13 14:35:37,477 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,478 - ERROR - No model loaded
+2025-04-13 14:35:37,479 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,479 - ERROR - No model loaded
+2025-04-13 14:35:37,481 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,481 - ERROR - No model loaded
+2025-04-13 14:35:37,483 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,483 - ERROR - No model loaded
+2025-04-13 14:35:37,485 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,485 - ERROR - No model loaded
+2025-04-13 14:35:37,487 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,487 - ERROR - No model loaded
+2025-04-13 14:35:37,488 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,489 - ERROR - No model loaded
+2025-04-13 14:35:37,490 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,490 - ERROR - No model loaded
+2025-04-13 14:35:37,492 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,492 - ERROR - No model loaded
+2025-04-13 14:35:37,494 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,494 - ERROR - No model loaded
+2025-04-13 14:35:37,496 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,496 - ERROR - No model loaded
+2025-04-13 14:35:37,498 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,498 - ERROR - No model loaded
+2025-04-13 14:35:37,500 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,500 - ERROR - No model loaded
+2025-04-13 14:35:37,502 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,502 - ERROR - No model loaded
+2025-04-13 14:35:37,504 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,504 - ERROR - No model loaded
+2025-04-13 14:35:37,505 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,506 - ERROR - No model loaded
+2025-04-13 14:35:37,507 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,507 - ERROR - No model loaded
+2025-04-13 14:35:37,509 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,509 - ERROR - No model loaded
+2025-04-13 14:35:37,511 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,511 - ERROR - No model loaded
+2025-04-13 14:35:37,513 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,513 - ERROR - No model loaded
+2025-04-13 14:35:37,515 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,515 - ERROR - No model loaded
+2025-04-13 14:35:37,517 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,517 - ERROR - No model loaded
+2025-04-13 14:35:37,518 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,519 - ERROR - No model loaded
+2025-04-13 14:35:37,520 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,520 - ERROR - No model loaded
+2025-04-13 14:35:37,522 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,522 - ERROR - No model loaded
+2025-04-13 14:35:37,524 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,524 - ERROR - No model loaded
+2025-04-13 14:35:37,526 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,526 - ERROR - No model loaded
+2025-04-13 14:35:37,528 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,528 - ERROR - No model loaded
+2025-04-13 14:35:37,530 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,530 - ERROR - No model loaded
+2025-04-13 14:35:37,532 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,532 - ERROR - No model loaded
+2025-04-13 14:35:37,533 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,533 - ERROR - No model loaded
+2025-04-13 14:35:37,535 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,535 - ERROR - No model loaded
+2025-04-13 14:35:37,537 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,537 - ERROR - No model loaded
+2025-04-13 14:35:37,539 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,539 - ERROR - No model loaded
+2025-04-13 14:35:37,541 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,541 - ERROR - No model loaded
+2025-04-13 14:35:37,543 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,543 - ERROR - No model loaded
+2025-04-13 14:35:37,544 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,544 - ERROR - No model loaded
+2025-04-13 14:35:37,546 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,546 - ERROR - No model loaded
+2025-04-13 14:35:37,548 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,548 - ERROR - No model loaded
+2025-04-13 14:35:37,550 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,550 - ERROR - No model loaded
+2025-04-13 14:35:37,551 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,552 - ERROR - No model loaded
+2025-04-13 14:35:37,553 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,553 - ERROR - No model loaded
+2025-04-13 14:35:37,555 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,555 - ERROR - No model loaded
+2025-04-13 14:35:37,557 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,557 - ERROR - No model loaded
+2025-04-13 14:35:37,559 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,559 - ERROR - No model loaded
+2025-04-13 14:35:37,561 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,561 - ERROR - No model loaded
+2025-04-13 14:35:37,562 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,563 - ERROR - No model loaded
+2025-04-13 14:35:37,564 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,565 - ERROR - No model loaded
+2025-04-13 14:35:37,566 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,567 - ERROR - No model loaded
+2025-04-13 14:35:37,568 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,568 - ERROR - No model loaded
+2025-04-13 14:35:37,570 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,570 - ERROR - No model loaded
+2025-04-13 14:35:37,572 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,572 - ERROR - No model loaded
+2025-04-13 14:35:37,574 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,574 - ERROR - No model loaded
+2025-04-13 14:35:37,575 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,576 - ERROR - No model loaded
+2025-04-13 14:35:37,577 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,578 - ERROR - No model loaded
+2025-04-13 14:35:37,579 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,579 - ERROR - No model loaded
+2025-04-13 14:35:37,581 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,581 - ERROR - No model loaded
+2025-04-13 14:35:37,583 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,583 - ERROR - No model loaded
+2025-04-13 14:35:37,585 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,585 - ERROR - No model loaded
+2025-04-13 14:35:37,587 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,587 - ERROR - No model loaded
+2025-04-13 14:35:37,589 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,589 - ERROR - No model loaded
+2025-04-13 14:35:37,591 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,591 - ERROR - No model loaded
+2025-04-13 14:35:37,592 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,593 - ERROR - No model loaded
+2025-04-13 14:35:37,594 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,594 - ERROR - No model loaded
+2025-04-13 14:35:37,596 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,596 - ERROR - No model loaded
+2025-04-13 14:35:37,598 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,598 - ERROR - No model loaded
+2025-04-13 14:35:37,600 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,600 - ERROR - No model loaded
+2025-04-13 14:35:37,602 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,602 - ERROR - No model loaded
+2025-04-13 14:35:37,605 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,605 - ERROR - No model loaded
+2025-04-13 14:35:37,606 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,607 - ERROR - No model loaded
+2025-04-13 14:35:37,608 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,608 - ERROR - No model loaded
+2025-04-13 14:35:37,610 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,610 - ERROR - No model loaded
+2025-04-13 14:35:37,612 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,612 - ERROR - No model loaded
+2025-04-13 14:35:37,614 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,614 - ERROR - No model loaded
+2025-04-13 14:35:37,616 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,616 - ERROR - No model loaded
+2025-04-13 14:35:37,618 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,618 - ERROR - No model loaded
+2025-04-13 14:35:37,621 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,621 - ERROR - No model loaded
+2025-04-13 14:35:37,623 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,623 - ERROR - No model loaded
+2025-04-13 14:35:37,624 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,625 - ERROR - No model loaded
+2025-04-13 14:35:37,626 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,626 - ERROR - No model loaded
+2025-04-13 14:35:37,628 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,628 - ERROR - No model loaded
+2025-04-13 14:35:37,630 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,630 - ERROR - No model loaded
+2025-04-13 14:35:37,632 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,632 - ERROR - No model loaded
+2025-04-13 14:35:37,634 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,634 - ERROR - No model loaded
+2025-04-13 14:35:37,636 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,636 - ERROR - No model loaded
+2025-04-13 14:35:37,638 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,638 - ERROR - No model loaded
+2025-04-13 14:35:37,639 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,640 - ERROR - No model loaded
+2025-04-13 14:35:37,641 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,641 - ERROR - No model loaded
+2025-04-13 14:35:37,643 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,643 - ERROR - No model loaded
+2025-04-13 14:35:37,645 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,645 - ERROR - No model loaded
+2025-04-13 14:35:37,647 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,647 - ERROR - No model loaded
+2025-04-13 14:35:37,649 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,649 - ERROR - No model loaded
+2025-04-13 14:35:37,651 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,651 - ERROR - No model loaded
+2025-04-13 14:35:37,652 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,653 - ERROR - No model loaded
+2025-04-13 14:35:37,654 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,655 - ERROR - No model loaded
+2025-04-13 14:35:37,656 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,656 - ERROR - No model loaded
+2025-04-13 14:35:37,658 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,658 - ERROR - No model loaded
+2025-04-13 14:35:37,660 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,660 - ERROR - No model loaded
+2025-04-13 14:35:37,662 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,662 - ERROR - No model loaded
+2025-04-13 14:35:37,664 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,664 - ERROR - No model loaded
+2025-04-13 14:35:37,665 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,666 - ERROR - No model loaded
+2025-04-13 14:35:37,667 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,668 - ERROR - No model loaded
+2025-04-13 14:35:37,669 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,669 - ERROR - No model loaded
+2025-04-13 14:35:37,671 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,671 - ERROR - No model loaded
+2025-04-13 14:35:37,673 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,673 - ERROR - No model loaded
+2025-04-13 14:35:37,675 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,675 - ERROR - No model loaded
+2025-04-13 14:35:37,677 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,677 - ERROR - No model loaded
+2025-04-13 14:35:37,679 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,679 - ERROR - No model loaded
+2025-04-13 14:35:37,681 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,681 - ERROR - No model loaded
+2025-04-13 14:35:37,682 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,683 - ERROR - No model loaded
+2025-04-13 14:35:37,684 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,684 - ERROR - No model loaded
+2025-04-13 14:35:37,686 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,686 - ERROR - No model loaded
+2025-04-13 14:35:37,688 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,688 - ERROR - No model loaded
+2025-04-13 14:35:37,690 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,690 - ERROR - No model loaded
+2025-04-13 14:35:37,692 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,692 - ERROR - No model loaded
+2025-04-13 14:35:37,694 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,694 - ERROR - No model loaded
+2025-04-13 14:35:37,696 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,696 - ERROR - No model loaded
+2025-04-13 14:35:37,697 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,698 - ERROR - No model loaded
+2025-04-13 14:35:37,699 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,699 - ERROR - No model loaded
+2025-04-13 14:35:37,701 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,701 - ERROR - No model loaded
+2025-04-13 14:35:37,703 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,703 - ERROR - No model loaded
+2025-04-13 14:35:37,705 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,705 - ERROR - No model loaded
+2025-04-13 14:35:37,707 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,707 - ERROR - No model loaded
+2025-04-13 14:35:37,708 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,709 - ERROR - No model loaded
+2025-04-13 14:35:37,710 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,711 - ERROR - No model loaded
+2025-04-13 14:35:37,712 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,713 - ERROR - No model loaded
+2025-04-13 14:35:37,714 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,714 - ERROR - No model loaded
+2025-04-13 14:35:37,716 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,716 - ERROR - No model loaded
+2025-04-13 14:35:37,718 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,718 - ERROR - No model loaded
+2025-04-13 14:35:37,720 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,720 - ERROR - No model loaded
+2025-04-13 14:35:37,722 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,722 - ERROR - No model loaded
+2025-04-13 14:35:37,724 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,724 - ERROR - No model loaded
+2025-04-13 14:35:37,726 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,726 - ERROR - No model loaded
+2025-04-13 14:35:37,728 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,728 - ERROR - No model loaded
+2025-04-13 14:35:37,730 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,730 - ERROR - No model loaded
+2025-04-13 14:35:37,731 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,732 - ERROR - No model loaded
+2025-04-13 14:35:37,733 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,733 - ERROR - No model loaded
+2025-04-13 14:35:37,735 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,735 - ERROR - No model loaded
+2025-04-13 14:35:37,737 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,737 - ERROR - No model loaded
+2025-04-13 14:35:37,739 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,739 - ERROR - No model loaded
+2025-04-13 14:35:37,741 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,741 - ERROR - No model loaded
+2025-04-13 14:35:37,743 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,743 - ERROR - No model loaded
+2025-04-13 14:35:37,744 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,745 - ERROR - No model loaded
+2025-04-13 14:35:37,746 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,746 - ERROR - No model loaded
+2025-04-13 14:35:37,748 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,748 - ERROR - No model loaded
+2025-04-13 14:35:37,750 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,750 - ERROR - No model loaded
+2025-04-13 14:35:37,751 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,752 - ERROR - No model loaded
+2025-04-13 14:35:37,753 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,754 - ERROR - No model loaded
+2025-04-13 14:35:37,755 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,755 - ERROR - No model loaded
+2025-04-13 14:35:37,757 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,757 - ERROR - No model loaded
+2025-04-13 14:35:37,759 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,759 - ERROR - No model loaded
+2025-04-13 14:35:37,761 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,761 - ERROR - No model loaded
+2025-04-13 14:35:37,763 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,763 - ERROR - No model loaded
+2025-04-13 14:35:37,764 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,764 - ERROR - No model loaded
+2025-04-13 14:35:37,766 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,766 - ERROR - No model loaded
+2025-04-13 14:35:37,768 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,768 - ERROR - No model loaded
+2025-04-13 14:35:37,770 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,770 - ERROR - No model loaded
+2025-04-13 14:35:37,772 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,772 - ERROR - No model loaded
+2025-04-13 14:35:37,774 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,774 - ERROR - No model loaded
+2025-04-13 14:35:37,776 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,776 - ERROR - No model loaded
+2025-04-13 14:35:37,778 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,778 - ERROR - No model loaded
+2025-04-13 14:35:37,780 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,780 - ERROR - No model loaded
+2025-04-13 14:35:37,782 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,782 - ERROR - No model loaded
+2025-04-13 14:35:37,784 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,784 - ERROR - No model loaded
+2025-04-13 14:35:37,786 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,786 - ERROR - No model loaded
+2025-04-13 14:35:37,787 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,788 - ERROR - No model loaded
+2025-04-13 14:35:37,789 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,790 - ERROR - No model loaded
+2025-04-13 14:35:37,791 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,791 - ERROR - No model loaded
+2025-04-13 14:35:37,793 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,793 - ERROR - No model loaded
+2025-04-13 14:35:37,795 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,795 - ERROR - No model loaded
+2025-04-13 14:35:37,797 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,797 - ERROR - No model loaded
+2025-04-13 14:35:37,799 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,799 - ERROR - No model loaded
+2025-04-13 14:35:37,801 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,801 - ERROR - No model loaded
+2025-04-13 14:35:37,803 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,803 - ERROR - No model loaded
+2025-04-13 14:35:37,804 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,805 - ERROR - No model loaded
+2025-04-13 14:35:37,806 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,807 - ERROR - No model loaded
+2025-04-13 14:35:37,808 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,808 - ERROR - No model loaded
+2025-04-13 14:35:37,810 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,810 - ERROR - No model loaded
+2025-04-13 14:35:37,812 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,812 - ERROR - No model loaded
+2025-04-13 14:35:37,814 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,814 - ERROR - No model loaded
+2025-04-13 14:35:37,816 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,816 - ERROR - No model loaded
+2025-04-13 14:35:37,818 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,818 - ERROR - No model loaded
+2025-04-13 14:35:37,820 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,820 - ERROR - No model loaded
+2025-04-13 14:35:37,822 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,822 - ERROR - No model loaded
+2025-04-13 14:35:37,824 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,824 - ERROR - No model loaded
+2025-04-13 14:35:37,826 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,826 - ERROR - No model loaded
+2025-04-13 14:35:37,828 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,828 - ERROR - No model loaded
+2025-04-13 14:35:37,830 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,830 - ERROR - No model loaded
+2025-04-13 14:35:37,832 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,832 - ERROR - No model loaded
+2025-04-13 14:35:37,834 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,834 - ERROR - No model loaded
+2025-04-13 14:35:37,837 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,837 - ERROR - No model loaded
+2025-04-13 14:35:37,839 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,839 - ERROR - No model loaded
+2025-04-13 14:35:37,840 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,841 - ERROR - No model loaded
+2025-04-13 14:35:37,842 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,843 - ERROR - No model loaded
+2025-04-13 14:35:37,844 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,844 - ERROR - No model loaded
+2025-04-13 14:35:37,847 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,847 - ERROR - No model loaded
+2025-04-13 14:35:37,849 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,849 - ERROR - No model loaded
+2025-04-13 14:35:37,851 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,851 - ERROR - No model loaded
+2025-04-13 14:35:37,852 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,852 - ERROR - No model loaded
+2025-04-13 14:35:37,854 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,854 - ERROR - No model loaded
+2025-04-13 14:35:37,856 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,856 - ERROR - No model loaded
+2025-04-13 14:35:37,858 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,858 - ERROR - No model loaded
+2025-04-13 14:35:37,860 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,860 - ERROR - No model loaded
+2025-04-13 14:35:37,862 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,862 - ERROR - No model loaded
+2025-04-13 14:35:37,864 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,864 - ERROR - No model loaded
+2025-04-13 14:35:37,865 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,865 - ERROR - No model loaded
+2025-04-13 14:35:37,867 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,867 - ERROR - No model loaded
+2025-04-13 14:35:37,869 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,869 - ERROR - No model loaded
+2025-04-13 14:35:37,871 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,871 - ERROR - No model loaded
+2025-04-13 14:35:37,873 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,873 - ERROR - No model loaded
+2025-04-13 14:35:37,875 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,875 - ERROR - No model loaded
+2025-04-13 14:35:37,877 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,877 - ERROR - No model loaded
+2025-04-13 14:35:37,878 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,878 - ERROR - No model loaded
+2025-04-13 14:35:37,880 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,880 - ERROR - No model loaded
+2025-04-13 14:35:37,882 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,882 - ERROR - No model loaded
+2025-04-13 14:35:37,884 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,884 - ERROR - No model loaded
+2025-04-13 14:35:37,886 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,886 - ERROR - No model loaded
+2025-04-13 14:35:37,888 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,888 - ERROR - No model loaded
+2025-04-13 14:35:37,890 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,890 - ERROR - No model loaded
+2025-04-13 14:35:37,891 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,892 - ERROR - No model loaded
+2025-04-13 14:35:37,893 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,893 - ERROR - No model loaded
+2025-04-13 14:35:37,895 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,895 - ERROR - No model loaded
+2025-04-13 14:35:37,897 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,897 - ERROR - No model loaded
+2025-04-13 14:35:37,899 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,899 - ERROR - No model loaded
+2025-04-13 14:35:37,900 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,901 - ERROR - No model loaded
+2025-04-13 14:35:37,902 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,903 - ERROR - No model loaded
+2025-04-13 14:35:37,904 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,904 - ERROR - No model loaded
+2025-04-13 14:35:37,906 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,906 - ERROR - No model loaded
+2025-04-13 14:35:37,908 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,908 - ERROR - No model loaded
+2025-04-13 14:35:37,910 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,910 - ERROR - No model loaded
+2025-04-13 14:35:37,912 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,912 - ERROR - No model loaded
+2025-04-13 14:35:37,914 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,914 - ERROR - No model loaded
+2025-04-13 14:35:37,916 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,916 - ERROR - No model loaded
+2025-04-13 14:35:37,917 - ERROR - Error preparing prompt: 'Finding' object has no attribute 'get'
+2025-04-13 14:35:37,918 - ERROR - No model loaded
+2025-04-13 14:36:49,314 - INFO - Starting application cleanup
+2025-04-13 14:36:49,314 - INFO - Starting AI analyzer cleanup
+2025-04-13 14:36:54,328 - INFO - AI analyzer cleanup completed
+2025-04-13 14:36:54,328 - INFO - Starting log parser cleanup
+2025-04-13 14:36:59,341 - INFO - Log parser cleanup completed
+2025-04-13 14:36:59,344 - INFO - Application cleanup completed

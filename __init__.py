@@ -1,0 +1,3 @@
+"""
+Local Forensic Scanner package.
+""" 

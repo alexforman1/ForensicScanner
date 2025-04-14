@@ -1,0 +1,3 @@
+2025-04-11 16:54:20,111 - INFO - root - Logging initialized
+2025-04-11 16:54:20,235 - ERROR - root - Model file not found: models\mistral-7b-instruct-v0.2.Q5_K.gguf
+2025-04-11 16:54:20,235 - ERROR - root - Required model files not found. Please download the model files.
