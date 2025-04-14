@@ -1,0 +1,2 @@
+# Ignore large AI model files
+models/*.gguf 
